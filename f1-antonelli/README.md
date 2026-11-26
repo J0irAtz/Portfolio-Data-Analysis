@@ -14,4 +14,4 @@ Con Python 3, instala las dependencias con `python -m pip install fastf1 pandas`
 
 ## Visualización
 
-Puedes abrir los CSV en Tableau. El tablero original usaba extractos temporales vinculados al equipo donde se creó. La versión interactiva portátil queda pendiente de empaquetar.
+[Ver el dashboard interactivo en Tableau Public](https://public.tableau.com/app/profile/jair.eduardo.alfaro.ahuatzin/viz/Dashboard_F1_Antonelli/Dashboard1). Incluye una gráfica de puntos acumulados de Kimi Antonelli y una comparación de los resultados del GP de Canadá.
