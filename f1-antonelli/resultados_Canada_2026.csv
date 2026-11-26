@@ -1,0 +1,23 @@
+Abbreviation,DriverNumber,FullName,TeamName,GridPosition,Position,Points
+ANT,12,Kimi Antonelli,Mercedes,2.0,1.0,25.0
+HAM,44,Lewis Hamilton,Ferrari,5.0,2.0,18.0
+VER,3,Max Verstappen,Red Bull Racing,6.0,3.0,15.0
+LEC,16,Charles Leclerc,Ferrari,8.0,4.0,12.0
+HAD,6,Isack Hadjar,Red Bull Racing,7.0,5.0,10.0
+COL,43,Franco Colapinto,Alpine,10.0,6.0,8.0
+LAW,30,Liam Lawson,Racing Bulls,12.0,7.0,6.0
+GAS,10,Pierre Gasly,Alpine,14.0,8.0,4.0
+SAI,55,Carlos Sainz,Williams,15.0,9.0,2.0
+BEA,87,Oliver Bearman,Haas F1 Team,16.0,10.0,1.0
+PIA,81,Oscar Piastri,McLaren,4.0,11.0,0.0
+HUL,27,Nico Hulkenberg,Audi,11.0,12.0,0.0
+BOR,5,Gabriel Bortoleto,Audi,13.0,13.0,0.0
+OCO,31,Esteban Ocon,Haas F1 Team,17.0,14.0,0.0
+STR,18,Lance Stroll,Aston Martin,22.0,15.0,0.0
+BOT,77,Valtteri Bottas,Cadillac,21.0,16.0,0.0
+PER,11,Sergio Perez,Cadillac,20.0,17.0,0.0
+NOR,1,Lando Norris,McLaren,3.0,18.0,0.0
+RUS,63,George Russell,Mercedes,1.0,19.0,0.0
+ALO,14,Fernando Alonso,Aston Martin,19.0,20.0,0.0
+ALB,23,Alexander Albon,Williams,18.0,21.0,0.0
+LIN,41,Arvid Lindblad,Racing Bulls,9.0,22.0,0.0
