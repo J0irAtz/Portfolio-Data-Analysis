@@ -1,0 +1,133 @@
+Abbreviation,DriverNumber,FullName,TeamName,Position,Points,Race
+RUS,63,George Russell,Mercedes,1.0,25.0,Australia
+ANT,12,Kimi Antonelli,Mercedes,2.0,18.0,Australia
+LEC,16,Charles Leclerc,Ferrari,3.0,15.0,Australia
+HAM,44,Lewis Hamilton,Ferrari,4.0,12.0,Australia
+NOR,1,Lando Norris,McLaren,5.0,10.0,Australia
+VER,3,Max Verstappen,Red Bull Racing,6.0,8.0,Australia
+BEA,87,Oliver Bearman,Haas F1 Team,7.0,6.0,Australia
+LIN,41,Arvid Lindblad,Racing Bulls,8.0,4.0,Australia
+BOR,5,Gabriel Bortoleto,Audi,9.0,2.0,Australia
+GAS,10,Pierre Gasly,Alpine,10.0,1.0,Australia
+OCO,31,Esteban Ocon,Haas F1 Team,11.0,0.0,Australia
+ALB,23,Alexander Albon,Williams,12.0,0.0,Australia
+LAW,30,Liam Lawson,Racing Bulls,13.0,0.0,Australia
+COL,43,Franco Colapinto,Alpine,14.0,0.0,Australia
+SAI,55,Carlos Sainz,Williams,15.0,0.0,Australia
+PER,11,Sergio Perez,Cadillac,16.0,0.0,Australia
+STR,18,Lance Stroll,Aston Martin,17.0,0.0,Australia
+ALO,14,Fernando Alonso,Aston Martin,18.0,0.0,Australia
+BOT,77,Valtteri Bottas,Cadillac,19.0,0.0,Australia
+HAD,6,Isack Hadjar,Red Bull Racing,20.0,0.0,Australia
+PIA,81,Oscar Piastri,McLaren,21.0,0.0,Australia
+HUL,27,Nico Hulkenberg,Audi,22.0,0.0,Australia
+ANT,12,Kimi Antonelli,Mercedes,1.0,25.0,Japan
+PIA,81,Oscar Piastri,McLaren,2.0,18.0,Japan
+LEC,16,Charles Leclerc,Ferrari,3.0,15.0,Japan
+RUS,63,George Russell,Mercedes,4.0,12.0,Japan
+NOR,1,Lando Norris,McLaren,5.0,10.0,Japan
+HAM,44,Lewis Hamilton,Ferrari,6.0,8.0,Japan
+GAS,10,Pierre Gasly,Alpine,7.0,6.0,Japan
+VER,3,Max Verstappen,Red Bull Racing,8.0,4.0,Japan
+LAW,30,Liam Lawson,Racing Bulls,9.0,2.0,Japan
+OCO,31,Esteban Ocon,Haas F1 Team,10.0,1.0,Japan
+HUL,27,Nico Hulkenberg,Audi,11.0,0.0,Japan
+HAD,6,Isack Hadjar,Red Bull Racing,12.0,0.0,Japan
+BOR,5,Gabriel Bortoleto,Audi,13.0,0.0,Japan
+LIN,41,Arvid Lindblad,Racing Bulls,14.0,0.0,Japan
+SAI,55,Carlos Sainz,Williams,15.0,0.0,Japan
+COL,43,Franco Colapinto,Alpine,16.0,0.0,Japan
+PER,11,Sergio Perez,Cadillac,17.0,0.0,Japan
+ALO,14,Fernando Alonso,Aston Martin,18.0,0.0,Japan
+BOT,77,Valtteri Bottas,Cadillac,19.0,0.0,Japan
+ALB,23,Alexander Albon,Williams,20.0,0.0,Japan
+STR,18,Lance Stroll,Aston Martin,21.0,0.0,Japan
+BEA,87,Oliver Bearman,Haas F1 Team,22.0,0.0,Japan
+ANT,12,Kimi Antonelli,Mercedes,1.0,25.0,China
+RUS,63,George Russell,Mercedes,2.0,18.0,China
+HAM,44,Lewis Hamilton,Ferrari,3.0,15.0,China
+LEC,16,Charles Leclerc,Ferrari,4.0,12.0,China
+BEA,87,Oliver Bearman,Haas F1 Team,5.0,10.0,China
+GAS,10,Pierre Gasly,Alpine,6.0,8.0,China
+LAW,30,Liam Lawson,Racing Bulls,7.0,6.0,China
+HAD,6,Isack Hadjar,Red Bull Racing,8.0,4.0,China
+SAI,55,Carlos Sainz,Williams,9.0,2.0,China
+COL,43,Franco Colapinto,Alpine,10.0,1.0,China
+HUL,27,Nico Hulkenberg,Audi,11.0,0.0,China
+LIN,41,Arvid Lindblad,Racing Bulls,12.0,0.0,China
+BOT,77,Valtteri Bottas,Cadillac,13.0,0.0,China
+OCO,31,Esteban Ocon,Haas F1 Team,14.0,0.0,China
+PER,11,Sergio Perez,Cadillac,15.0,0.0,China
+VER,3,Max Verstappen,Red Bull Racing,16.0,0.0,China
+ALO,14,Fernando Alonso,Aston Martin,17.0,0.0,China
+STR,18,Lance Stroll,Aston Martin,18.0,0.0,China
+PIA,81,Oscar Piastri,McLaren,19.0,0.0,China
+NOR,1,Lando Norris,McLaren,20.0,0.0,China
+BOR,5,Gabriel Bortoleto,Audi,21.0,0.0,China
+ALB,23,Alexander Albon,Williams,22.0,0.0,China
+ANT,12,Kimi Antonelli,Mercedes,1.0,25.0,Miami
+NOR,1,Lando Norris,McLaren,2.0,18.0,Miami
+PIA,81,Oscar Piastri,McLaren,3.0,15.0,Miami
+RUS,63,George Russell,Mercedes,4.0,12.0,Miami
+VER,3,Max Verstappen,Red Bull Racing,5.0,10.0,Miami
+HAM,44,Lewis Hamilton,Ferrari,6.0,8.0,Miami
+COL,43,Franco Colapinto,Alpine,7.0,6.0,Miami
+LEC,16,Charles Leclerc,Ferrari,8.0,4.0,Miami
+SAI,55,Carlos Sainz,Williams,9.0,2.0,Miami
+ALB,23,Alexander Albon,Williams,10.0,1.0,Miami
+BEA,87,Oliver Bearman,Haas F1 Team,11.0,0.0,Miami
+BOR,5,Gabriel Bortoleto,Audi,12.0,0.0,Miami
+OCO,31,Esteban Ocon,Haas F1 Team,13.0,0.0,Miami
+LIN,41,Arvid Lindblad,Racing Bulls,14.0,0.0,Miami
+ALO,14,Fernando Alonso,Aston Martin,15.0,0.0,Miami
+PER,11,Sergio Perez,Cadillac,16.0,0.0,Miami
+STR,18,Lance Stroll,Aston Martin,17.0,0.0,Miami
+BOT,77,Valtteri Bottas,Cadillac,18.0,0.0,Miami
+HUL,27,Nico Hulkenberg,Audi,19.0,0.0,Miami
+LAW,30,Liam Lawson,Racing Bulls,20.0,0.0,Miami
+GAS,10,Pierre Gasly,Alpine,21.0,0.0,Miami
+HAD,6,Isack Hadjar,Red Bull Racing,22.0,0.0,Miami
+ANT,12,Kimi Antonelli,Mercedes,1.0,25.0,Monaco
+HAM,44,Lewis Hamilton,Ferrari,2.0,18.0,Monaco
+GAS,10,Pierre Gasly,Alpine,3.0,15.0,Monaco
+HAD,6,Isack Hadjar,Red Bull Racing,4.0,12.0,Monaco
+PIA,81,Oscar Piastri,McLaren,5.0,10.0,Monaco
+LAW,30,Liam Lawson,Racing Bulls,6.0,8.0,Monaco
+LIN,41,Arvid Lindblad,Racing Bulls,7.0,6.0,Monaco
+ALB,23,Alexander Albon,Williams,8.0,4.0,Monaco
+OCO,31,Esteban Ocon,Haas F1 Team,9.0,2.0,Monaco
+ALO,14,Fernando Alonso,Aston Martin,10.0,1.0,Monaco
+BOR,5,Gabriel Bortoleto,Audi,11.0,0.0,Monaco
+RUS,63,George Russell,Mercedes,12.0,0.0,Monaco
+HUL,27,Nico Hulkenberg,Audi,13.0,0.0,Monaco
+COL,43,Franco Colapinto,Alpine,14.0,0.0,Monaco
+PER,11,Sergio Perez,Cadillac,15.0,0.0,Monaco
+SAI,55,Carlos Sainz,Williams,16.0,0.0,Monaco
+LEC,16,Charles Leclerc,Ferrari,17.0,0.0,Monaco
+STR,18,Lance Stroll,Aston Martin,18.0,0.0,Monaco
+NOR,1,Lando Norris,McLaren,19.0,0.0,Monaco
+BEA,87,Oliver Bearman,Haas F1 Team,20.0,0.0,Monaco
+BOT,77,Valtteri Bottas,Cadillac,21.0,0.0,Monaco
+VER,3,Max Verstappen,Red Bull Racing,22.0,0.0,Monaco
+ANT,12,Kimi Antonelli,Mercedes,1.0,25.0,Canada
+HAM,44,Lewis Hamilton,Ferrari,2.0,18.0,Canada
+VER,3,Max Verstappen,Red Bull Racing,3.0,15.0,Canada
+LEC,16,Charles Leclerc,Ferrari,4.0,12.0,Canada
+HAD,6,Isack Hadjar,Red Bull Racing,5.0,10.0,Canada
+COL,43,Franco Colapinto,Alpine,6.0,8.0,Canada
+LAW,30,Liam Lawson,Racing Bulls,7.0,6.0,Canada
+GAS,10,Pierre Gasly,Alpine,8.0,4.0,Canada
+SAI,55,Carlos Sainz,Williams,9.0,2.0,Canada
+BEA,87,Oliver Bearman,Haas F1 Team,10.0,1.0,Canada
+PIA,81,Oscar Piastri,McLaren,11.0,0.0,Canada
+HUL,27,Nico Hulkenberg,Audi,12.0,0.0,Canada
+BOR,5,Gabriel Bortoleto,Audi,13.0,0.0,Canada
+OCO,31,Esteban Ocon,Haas F1 Team,14.0,0.0,Canada
+STR,18,Lance Stroll,Aston Martin,15.0,0.0,Canada
+BOT,77,Valtteri Bottas,Cadillac,16.0,0.0,Canada
+PER,11,Sergio Perez,Cadillac,17.0,0.0,Canada
+NOR,1,Lando Norris,McLaren,18.0,0.0,Canada
+RUS,63,George Russell,Mercedes,19.0,0.0,Canada
+ALO,14,Fernando Alonso,Aston Martin,20.0,0.0,Canada
+ALB,23,Alexander Albon,Williams,21.0,0.0,Canada
+LIN,41,Arvid Lindblad,Racing Bulls,22.0,0.0,Canada
